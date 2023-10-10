@@ -77,14 +77,14 @@ export default function CartContextProvider({children}){
     }
 
 
-    function onlinePayment(data ,id){
+    function onlinePayment(data , id){
         return axios.post(`https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${id}`,
         {
             shippingAddress:data
         },
         {
             headers,
-            params: { url: "https://Amrkandel1.github.io/Ecommerce-reactjs/" },
+            params: { url: "https://Amrkandel1.github.io/Ecommerce-reactjs/#" },
         },      
         ).then(res=>res).catch(err=>err)
     }
