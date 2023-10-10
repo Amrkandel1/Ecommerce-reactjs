@@ -1,0 +1,20 @@
+.bgColor{
+    background-color: #F0F3F2;
+}
+
+.form-control:focus{
+    box-shadow:0 0 0 0.25rem rgba(13, 253, 69, 0.25) !important;
+}
+
+.borders{
+    border-top: 1px solid rgba(147, 147, 147, 0.484);
+    border-bottom: 1px solid rgba(147, 147, 147, 0.484);
+}
+
+.imgWidth{
+    width: 60px;
+}
+
+.imgWidth2{
+    width: 100px;
+}

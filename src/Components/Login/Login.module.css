@@ -1,0 +1,16 @@
+.btn-danger{
+    background-color: #08AC0A !important;
+}
+
+.form-control:focus{
+    box-shadow:0 0 0 0.25rem rgba(13, 253, 69, 0.25) !important;
+}
+
+.loginTitle{
+    font-weight: 350;
+    font-size: 34px;
+}
+
+.labels{
+    font-weight: 350;
+}
