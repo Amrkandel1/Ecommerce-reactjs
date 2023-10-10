@@ -86,7 +86,7 @@ export default function CartContextProvider({children}){
             headers
         },
         {
-            params: { url: "https://kareememad52.github.io/ecommerce/" },
+            params: { url: "https://Amrkandel1.github.io/Ecommerce-reactjs/" },
         }
         
         ).then(res=>res).catch(err=>err)
