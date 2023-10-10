@@ -83,12 +83,9 @@ export default function CartContextProvider({children}){
             shippingAddress:data
         },
         {
-            headers
-        },
-        {
+            headers,
             params: { url: "https://Amrkandel1.github.io/Ecommerce-reactjs/" },
-        }
-        
+        },      
         ).then(res=>res).catch(err=>err)
     }
 
