@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-reactjs/static/css/main.3c593a4b.css",
+    "main.js": "/Ecommerce-reactjs/static/js/main.ed8992bb.js",
+    "static/js/787.46493d11.chunk.js": "/Ecommerce-reactjs/static/js/787.46493d11.chunk.js",
+    "static/media/blog-img-2.jpeg": "/Ecommerce-reactjs/static/media/blog-img-2.69e5e73301d9616ba8c6.jpeg",
+    "static/media/blog-img-1.jpeg": "/Ecommerce-reactjs/static/media/blog-img-1.3e2f37267e1d1d5c8c75.jpeg",
+    "static/media/fa-solid-900.ttf": "/Ecommerce-reactjs/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/slider-image-1.jpeg": "/Ecommerce-reactjs/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/fa-brands-400.ttf": "/Ecommerce-reactjs/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/slider-image-3.jpeg": "/Ecommerce-reactjs/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/Ecommerce-reactjs/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/fa-solid-900.woff2": "/Ecommerce-reactjs/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/Ecommerce-reactjs/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/error.svg": "/Ecommerce-reactjs/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/MasterCard_Logo.svg.webp": "/Ecommerce-reactjs/static/media/MasterCard_Logo.svg.cbdfb6078b7efff912d4.webp",
+    "static/media/2560px-Amazon_Pay_logo.svg.png": "/Ecommerce-reactjs/static/media/2560px-Amazon_Pay_logo.svg.f1d7ed8012ba50041d47.png",
+    "static/media/PayPal.svg.png": "/Ecommerce-reactjs/static/media/PayPal.svg.088671dded675d04af8f.png",
+    "static/media/fa-regular-400.ttf": "/Ecommerce-reactjs/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/Ecommerce-reactjs/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/favicon.ico": "/Ecommerce-reactjs/static/media/favicon.718a878ce13cb3d228be.ico",
+    "static/media/freshcart-logo.svg": "/Ecommerce-reactjs/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/Ecommerce-reactjs/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/download-on-the-app-store-apple-logo.svg": "/Ecommerce-reactjs/static/media/download-on-the-app-store-apple-logo.b0ffae669fb45657e48c72792343854d.svg",
+    "static/media/google-play-badge-logo.svg": "/Ecommerce-reactjs/static/media/google-play-badge-logo.43450edc3252606b6b3a9b9371267972.svg",
+    "static/media/amex.svg": "/Ecommerce-reactjs/static/media/amex.e3deb7f40afb2ceb794885cff3a692cc.svg",
+    "static/media/fa-v4compatibility.woff2": "/Ecommerce-reactjs/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/Ecommerce-reactjs/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Ecommerce-reactjs/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Ecommerce-reactjs/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/check-7058.svg": "/Ecommerce-reactjs/static/media/check-7058.22ccf797be2190bb490176406232222d.svg",
+    "static/media/slick.woff": "/Ecommerce-reactjs/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Ecommerce-reactjs/index.html",
+    "main.3c593a4b.css.map": "/Ecommerce-reactjs/static/css/main.3c593a4b.css.map",
+    "main.ed8992bb.js.map": "/Ecommerce-reactjs/static/js/main.ed8992bb.js.map",
+    "787.46493d11.chunk.js.map": "/Ecommerce-reactjs/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c593a4b.css",
+    "static/js/main.ed8992bb.js"
+  ]
+}
