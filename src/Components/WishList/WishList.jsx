@@ -149,7 +149,7 @@ visible={true}
   }}
 />
 
-{wishListResp ? <div className='w-75  my-2 mx-auto p-3 bg-main-light'>
+{wishListResp ? <div className='w-75 mb-5 my-2 mx-auto p-3 bg-main-light'>
   <h2>My WishList</h2>
   
   {wishListResp.data.map((product)=>( <div key={product._id} className='row border-bottom py-2  align-items-center'>

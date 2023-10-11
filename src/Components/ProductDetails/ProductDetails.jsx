@@ -214,7 +214,7 @@ export default function ProductDetails() {
   wrapperStyle={{}}
   wrapperClass=""
   visible={true}
-/></div>: <div className="row align-items-center">
+/></div>: <div className="row align-items-center mb-5">
           <div className="col-md-4 p-5">
           <Slider {...settings}>
              {data?.data.data.images.map((imgSrc)=>( 
